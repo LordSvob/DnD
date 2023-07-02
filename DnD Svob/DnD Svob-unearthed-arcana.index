@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>r/UnearthedArcana</name>
+		<update version="0.0.5">
+			<file name="DnD Svob-unearthed-arcana.index" url="https://raw.githubusercontent.com/LordSvob/DnD/main/DnD Svob/DnD Svob-unearthed-arcana.index" />
+		</update>
+	</info>
+	<files>
+		
+		<!-- compendiums -->
+		<file name="DnD Svob-dark-arts-players-companion.index" url="https://raw.githubusercontent.com/LordSvob/DnD/main/DnD Svob/DnD Svob-unearthed-arcana/DnD Svob-dark-arts-players-companion.index" />
+	</files>
+</index>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+    <info>
+        <name>DnD Svob Dark Arts Player’s Companion</name>
+        <update version="0.0.1">
+            <file name="DnD Svob-dark-arts-players-companion.index" url="https://raw.githubusercontent.com/LordSvob/DnD/main/DnD Svob/DnD Svob-unearthed-arcana/DnD Svob-dark-arts-players-companion.index" />
+        </update>
+    </info>
+    <files>
+    
+      <!-- Races -->
+       
+        <file name="race-shadar-kai.xml" url="https://raw.githubusercontent.com/LordSvob/DnD/main/DnD Svob/DnD Svob-unearthed-arcana/DnD Svob-dark-arts-players-companion/race-shadar-kai.xml" />
+        
+    </files>
+</index>

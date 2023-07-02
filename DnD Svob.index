@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<update version="0.0.7">
+			<file name="DnD Svob.index" url="https://raw.githubusercontent.com/LordSvob/DnD/main/DnD Svob.index" />
+		</update>
+	</info>
+	<files>
+		<file name="DnD Svob-unearthed-arcana.index" url="https://raw.githubusercontent.com/LordSvob/DnD/main/DnD Svob/DnD Svob-unearthed-arcana.index" />		
+	</files>
+</index>
